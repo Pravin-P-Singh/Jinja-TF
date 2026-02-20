@@ -1,0 +1,5 @@
+vm_name = "vm-test-01"
+location = "eastus"
+resource_group = "rg-pravin-test"
+vm_size = "Standard_B1s"
+nic_id = "/subscriptions/8595b904-e990-44b9-9a91-55b233b07236/resourceGroups/rg-pravin-test/providers/Microsoft.Network/networkInterfaces/nic-pravin-test"
