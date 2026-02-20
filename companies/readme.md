@@ -1,1 +1,1 @@
-##This directory contains list of companies using this product
+This directory contains list of companies using this product
